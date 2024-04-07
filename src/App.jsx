@@ -1,9 +1,9 @@
 // import './App.css'
 import Home from './components/Home'
+import Member from './components/Member'
 import Navbar from './components/Navbar'
 import Team from './components/Team'
 import Testimonials from './components/Testimonials'
-// import Hero from './components/Hero'
 
 function App() {
 
@@ -13,7 +13,7 @@ function App() {
       <Home/>
       <Team/>
       <Testimonials/>
-      {/* <Hero/> */}
+      <Member/>
     </>
   )
 }
