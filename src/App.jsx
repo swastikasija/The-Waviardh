@@ -15,9 +15,8 @@ function App() {
       <Team/>
       <Testimonials/>
       <Member/>
-      <Footer/>
+      {/* <Footer/> */}
     </>
-    console.log("hello");
   )
 }
 
