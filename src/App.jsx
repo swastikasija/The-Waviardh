@@ -17,6 +17,7 @@ function App() {
       <Member/>
       <Footer/>
     </>
+    console.log("hello");
   )
 }
 
